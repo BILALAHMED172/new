@@ -1,0 +1,23 @@
+.main{
+width: 100px;
+height: 100px;
+background-color: rgb(47, 3, 204)
+/* opacity: 0.2; */
+
+
+}
+.first{
+    width: 100px;
+    height: 100px;
+    background-color: red
+    /* opacity: 0.2; */
+    
+}
+
+.second{
+    width: 100px;
+height: 100px;
+background-color: green
+/* opacity: 0.5; */
+
+ 
